@@ -1,0 +1,18 @@
+#anchortag
+{
+    text-align: center;
+    vertical-align: top;
+    font-size: 10px;
+    width: 100%;
+}
+body
+{
+    background-size: cover;
+    text-align: center;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
